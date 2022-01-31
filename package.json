@@ -1,6 +1,9 @@
 {
   "name": "tech-blog",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.13.0"
+  },
   "description": "A  CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.",
   "main": "index.js",
   "scripts": {
